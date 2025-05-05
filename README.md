@@ -1,34 +1,34 @@
 This analysis provided valuable insights into how economic and seasonal factors affect consumer behavior in retail markets
-🔍 Project Details:
+<h1>🔍 Project Details:</h1>
 I analyzed a dataset containing weekly sales information from Walmart stores, along with factors such as temperature,
 fuel prices, unemployment rates, and holiday flags. The goal of the project was to examine the relationship between these factors and their impact on sales.
 
-💡 Steps I Followed:
+<h1>💡 Steps I Followed:</h1>
 
 Imported the data from a CSV file using pandas.
 Cleaned and prepared the data for analysis, including handling missing values.
 Performed descriptive statistics to understand general trends in the data.
 Created visualizations to understand the relationships between different factors like temperature, fuel prices, and their impact on sales.
-📊 Key Findings:
+<h1>📊 Key Findings:</h1>
 
 Fuel Prices: Fuel prices had the most significant impact on sales, with increased prices leading to a decrease in sales.
 Temperature: A clear relationship was found between temperature and sales, with higher sales in warmer summer months and lower sales in colder winter months.
 Holidays: Sales were higher during holiday periods, indicating the effect of seasonal factors.
 Unemployment Rates: Sales were negatively impacted by higher unemployment rates, with lower consumer spending during times of higher unemployment.
 
-Report: Strategies to Increase Walmart Sales
-Executive Summary
+<h1>Report: Strategies to Increase Walmart Sales</h1>
+<h3>Executive Summary</h3>
 This report outlines key findings from the analysis of Walmart's sales data and presents actionable recommendations to boost sales.
 The analysis identified the following critical factors influencing sales: fuel prices, temperature, holiday seasons, and unemployment rates.
 Leveraging these insights, Walmart can adopt targeted strategies to enhance revenue and optimize customer engagement.
 
-Key Findings
+<h3>Key Findings</h3>
 Fuel Prices: Higher fuel prices correlate with a decline in sales as customers reduce non-essential trips.
 Temperature: Sales increase during warmer months, especially for summer-related products.
 Holiday Seasons: Holiday periods exhibit a significant spike in sales, driven by seasonal promotions and increased consumer demand.
 Unemployment Rates: Higher unemployment rates negatively impact sales due to reduced consumer spending power.
 
-Recommendations
+<h3>Recommendations</h3>
 1. Mitigating the Impact of Fuel Prices
 Promote Online Shopping: Strengthen e-commerce operations and offer discounts for online orders to reduce the need for physical store visits.
 Free Delivery Threshold: Introduce free delivery for orders above a certain amount to encourage larger purchases.
@@ -46,7 +46,7 @@ Flexible Payment Options: Introduce or enhance financing options like installmen
 Community Support Initiatives: Highlight community-oriented campaigns, such as donating a portion of sales to local charities, to build goodwill and attract customers.
 
 
-Implementation Plan
+<h3>Implementation Plan</h3>
 Action	Timeline	Responsible Team	Expected Outcome
 Launch e-commerce promotions	1 month	(Marketing, IT)	Increase in online sales volume
 Seasonal marketing campaigns	2 months	(Marketing, Merchandising)	Boost in seasonal product sales
@@ -54,7 +54,7 @@ Introduce loyalty programs	3 months	(Marketing, Customer Relations)	Enhanced cus
 Expand affordable product lines	3 months	(Merchandising, Supply Chain)	Improved sales in low-income regions
 
 
-Conclusion
+<h3>Conclusion</h3>
 By addressing the factors affecting sales, Walmart can strengthen its market position and boost revenue.
 The proposed strategies focus on enhancing customer convenience, leveraging seasonal trends, and addressing economic challenges effectively.
 
